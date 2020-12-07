@@ -1,0 +1,130 @@
+html {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.bs {
+    position: absolute;
+    top: 35px;
+    left: 38px;
+    font-size: 58px;
+    font-weight: bold;
+
+}
+
+.menu {
+    display: flex;
+    position: relative;
+    top: -61px;
+    left: 44px;
+    justify-content: space-evenly;
+}
+
+.lowerMenu {
+    display: flex;
+    position: relative;
+    top: -42px;
+    left: 44px;
+
+}
+
+.catbut {
+    padding-right: 56px;
+}
+
+.searchBar {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: -62px;
+
+}
+
+.fa-search {
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.fa-shopping-cart {
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+select {
+    width: 230px;
+}
+
+.dds {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 26px;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.productbox {
+    padding: 30px;
+    background-color: #9a7237;
+    margin: 50px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.euros {
+    font-weight: bold;
+    font-size: 46px;
+}
+
+.cents {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.top {
+    width: 100%;
+    height: 119px;
+    border: 1px solid black;
+    background-color: #9a7237;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+.menuTape {
+    width: 100%;
+    height: 99px;
+    margin-top: -1px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.catButtons {
+    width: 100%;
+    height: 65px;
+    border: 1px solid black;
+    background-color: #e5e5e5;
+    margin-top: -5px;
+    margin-bottom: 0px;
+}
+
+#secondBlock {
+    width: 100%;
+    height: 400px;
+    background-color: #f7f7f7;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 1px;
+}
+
+#thirdBlock {
+    width: 100%;
+    height: 78px;
+    border: 1px solid black;
+    background-color: #e5e5e5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
